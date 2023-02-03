@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "905038307653",
+    "project_id": "chattest-db05d",
+    "storage_bucket": "chattest-db05d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905038307653:android:268892d3ace11555c85e2c",
+        "android_client_info": {
+          "package_name": "com.reo.chattest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905038307653-01qd6itblcoftetebl6efgslnfaephnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHn3Oj_ToN7OvJ6Xt3zJJG0XX7_nXrbA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905038307653-01qd6itblcoftetebl6efgslnfaephnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
